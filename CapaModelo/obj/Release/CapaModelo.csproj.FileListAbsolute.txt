@@ -1,0 +1,6 @@
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.dll
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\bin\Release\CapaModelo.pdb
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.csproj.AssemblyReference.cache
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.csproj.CoreCompileInputs.cache
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.dll
+C:\proyectoweb\018_SistemaGestionEscolarASPMVC-main\ProyectoWeb\CapaModelo\obj\Release\CapaModelo.pdb
